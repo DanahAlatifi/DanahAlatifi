@@ -18,7 +18,6 @@ Frontend & Mobile Developer building Arabic (RTL) products with **React**, **Rea
 
 | Project | Description |
 | --- | --- |
-| [**Construction App**](https://github.com/DanahAlatifi/Constructionapp) | React Native / Expo project-management app for construction contractors, fully Arabic (RTL), built for future Odoo/REST integration. |
 | [**Connector Portal**](https://github.com/DanahAlatifi/thezidapp) | React Native / Expo mobile portal that links Zid, Salla, and Fudex e-commerce stores with Odoo. |
 | [**Add to Cart**](https://github.com/DanahAlatifi/AddToCart_UsingRouter) | React + React Router + Tailwind CSS shopping cart app consuming the Fake Store API, with dynamic pricing and discounts. |
 | [**Tailwind Notes**](https://github.com/DanahAlatifi/tailwindWeb) | Next.js + TypeScript notes app with an authentication flow and local persistence. |
