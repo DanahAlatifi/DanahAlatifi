@@ -29,7 +29,3 @@ Frontend & Mobile Developer building Arabic (RTL) products with **React**, **Rea
 - Building mobile apps with React Native / Expo, with first-class Arabic RTL support
 - Connecting frontend apps to Odoo ERP and REST APIs
 - Clean, reusable component architecture with TypeScript
-
-### 📫 Contact
-
-- LinkedIn: _add your link here_
